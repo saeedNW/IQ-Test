@@ -1,2 +1,2 @@
 # IQ-Test
-this is a simle incomplete IQ test game
+this is a simple incomplete IQ test game
